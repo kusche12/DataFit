@@ -1,0 +1,19 @@
+---------------------- CURRENTLY WORKING ON TASKS ------------------------------
+Display the databtable on the home page
+https://dev.to/awwsmm/reactive-datatables-in-r-with-persistent-filters-l26
+
+
+---------------------- UNCOMPLETED TASKS ------------------------------------
+Calendar output
+List output that includes (a clean) display of all daily info and picture. User scrolls \
+  up and down and can choose between viewing a. newest-oldest b.oldest-newest c. lowest weight-highest weight d. highest Weight-lowest weight
+Click on a point and get detailed info of that lifting day (https://shiny.rstudio.com/articles/plot-interaction.html)
+Allow a feature to overwrite a previously saved date
+
+---------------------- COMPLETED TASKS -------------------------------------
+User chooses to see line graphs of weight, bench, squat, deadlift, OHP, running progression
+  Show rows of each type of workout. Then use those rows to make a line graph
+User inputs date and sees all info for that day 
+Take in user date and return pic taken that day
+User inputs information directly through the app (no adding to external csv file)
+https://stackoverflow.com/questions/19706320/create-a-data-frame-using-text-input-in-shiny
